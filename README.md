@@ -6,6 +6,6 @@ The goal of the project is the implementation of a hardware component, in VHDL, 
 * the [documentation](documentation.pdf) of the project written in latex.
 * the [specification](specification.pdf).
 
-## Sviluppatori
-*[Valeria Detomas](https://github.com/valeriadetomas)
-*[Alessandra de Stefano](https://github.com/AlessandradeStefano)
+## Developers
+* [Valeria Detomas](https://github.com/valeriadetomas)
+* [Alessandra de Stefano](https://github.com/AlessandradeStefano)
