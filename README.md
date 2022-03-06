@@ -1,9 +1,11 @@
 # Prova Finale di Reti Logiche AA 2020-2021
+The goal of the project is the implementation of a hardware component, in VHDL, capable of recalibrating the contrast of the images. The recalibation of an image is realized through the equalization algorithm and the maximum dimension allowed for input images is 128 x 128 pixels.
 
-Obiettivo del progetto è l’implementazione di un componente hardware, in VHDL, in grado di ricalibrare il contrasto delle immagini. Quando i valori di intensità di un’immagine sono molto vicini essa risulta meno chiara ma, ridistribuendo i valori di intensità è possibile aumentare il contrasto.
+# Contents 
+* the [code](project.vhd) written in VHDL language of the implemented module.
+* the [documentation](documentation.pdf) of the project written in latex.
+* the [specification](specification.pdf).
 
 ## Sviluppatori
-
-[Valeria Detomas](https://github.com/valeriadetomas)
-
-[Alessandra de Stefano](https://github.com/AlessandradeStefano)
+*[Valeria Detomas](https://github.com/valeriadetomas)
+*[Alessandra de Stefano](https://github.com/AlessandradeStefano)
